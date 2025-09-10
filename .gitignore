@@ -1,0 +1,9 @@
+# Virtual Environment 
+venv
+
+# Catches
+
+__pycache__
+
+.pytest-caches
+
